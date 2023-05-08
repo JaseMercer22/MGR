@@ -189,6 +189,6 @@ Q3D.gui.dat = {
   };
 
   _this.addHelpButton = function () {
-    panel.add(this.parameters, 'i').name('Help');
+    panel.add(this.parameters, 'i').name('About Page');
   };
 })();
